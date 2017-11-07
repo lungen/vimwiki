@@ -1,0 +1,8 @@
+*set logfiles, see contribting.md*
+https://github.com/Valloric/YouCompleteMe/issues/91
+
+*log files*:
+(write into .vimrc)
+
+ilet g:ycm_keep_logfiles = 1
+let g:ycm_log_level = 'debug'

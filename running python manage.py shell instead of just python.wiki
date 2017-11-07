@@ -1,0 +1,18 @@
+= A special Python prompt =
+[[https://djangobook.com/django-templates/|link]]
+
+If you’ve used Python before, you may be wondering why we’re running _python manage.py shell_ 
+instead of just python (or python3). Both commands will start the interactive interpreter, 
+but the manage.py shell command has one key difference: before starting the interpreter, 
+it tells Django which settings file to use.
+
+Many parts of Django, including the template system, rely on your settings, and you won’t 
+be able to use them unless the framework knows which settings to use.If you’re curious, 
+here’s how it works behind the scenes. Django looks for an environment variable called 
+*DJANGO_SETTINGS_MODULE*, which should be set to the import path of your settings.py. For 
+example, *DJANGO_SETTINGS_MODULE* might be set to 'mysite.settings', assuming mysite is on 
+your Python path.
+
+When you run python manage.py shell, the command takes care of setting *DJANGO_SETTINGS_MODULE*
+for you. You will need to use python manage.py shell in these examples, or Django will throw 
+an exception.

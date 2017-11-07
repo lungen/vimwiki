@@ -1,0 +1,9 @@
+=== A Deeper Look at Receiving User Input ===
+
+Any time a program receives input from the user, various problems might occur.
+
+To ensure that inputs are valid, industrial-strength programs must test for all possible
+erroneous cases. A program that inputs grades should *VALIDATE* the grades by using *RANGE*
+*CHECKING* to ensure that hey are values from 0 to 100. You can then ask the user to reenter
+any value that’s out of range. If a program requires inputs from a specific set of values (e.g.,
+nonsequential product codes), you can ensure that each input matches a value in the set.

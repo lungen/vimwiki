@@ -1,0 +1,7 @@
+=ECLIM HOWTO=
+
+[[Install ECLIM on headless Server]]
+
+== START NEW PROJECT ==
+:ProjectCreate /path/to/my_project -n java
+

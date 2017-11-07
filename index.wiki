@@ -1,0 +1,69 @@
+= JAVA =
+[[eclim howto]]
+[[Java Tutorials Infos]]
+
+= PYTHON =
+    * [[https://nwjs.io/|nw.js writing applications with all Web technologies]]
+    * [[https://wiki.qt.io/PySide_Tutorials|PySide (GUI)]]
+    * [[https://pythontt.wordpress.com/tips/enhance-your-interactive-shell-with-pythonstartup/|Enhance your interactive shell with PYTHONSTARTUP]]
+
+    == CODING ==
+        [[https://www.hackerearth.com/practice/python/functional-programming/higher-order-functions-and-decorators/tutorial/|Higher_Order_Functions_And_Decorators]]
+
+
+= DJANGO =
+    == BOOKS ==
+    * [[https://djangobook.com/the-django-book/|djangoBook]]
+        - [[common regex symbols]]
+        - [[running python manage.py shell instead of just python]]
+        - [[[fundamentals of using django template system]]
+        - [[https://djangobook.com/customizing-change-lists-forms/|customizing change list and form]]
+
+    * [[http://www.tangowithdjango.com/|tango with django]]
+    * [[https://www.twoscoopspress.com/products/two-scoops-of-django-1-11|two scops of django]]
+
+    == Documentation ==
+    * [[https://docs.djangoproject.com/en/1.11/ref/contrib/admin/actions/|Admin Actions]]
+
+    == VIM & DJANGO ==
+    * [[https://code.djangoproject.com/wiki/UsingVimWithDjango|VimWithDjango]]
+
+== FLASK ==
+[[https://www.reddit.com/r/learnpython/comments/2pcjzr/can_i_use_flask_for_a_desktop_application_gui/|CanIuseFlaskForApplicationGui]]
+[[https://github.com/realpython/discover-flask|discover Flask]]
+
+== JINJA2 ==
+[[http://jinja.pocoo.org/docs/2.9/templates/#synopsis|Jinja2 Documentation]]
+
+== ATOM IDE ==
+[[https://medium.com/team40/how-i-made-atom-into-vim-3717b6d50822|HowIMadeAtomIntoVim]]
+
+== VIM IDE ==
+    * ignore pep8 E501 "line to long (>79 characters)"
+        -> add '# noqa' at the end of line = ignore
+
+== BASH ==
+    * [[https://www.digitalocean.com/community/tutorials/how-to-customize-your-bash-prompt-on-a-linux-vps|Customize your Bash Prompt]]
+
+== LEARN CODING ==
+[[https://www.w3schools.com/php/|w3schools]]
+[[https://www.reddit.com/r/learnpython/wiki/index|reddit Python]]
+    * [[https://www.reddit.com/r/learnpython/|reddit learnPython]]
+    * [[https://www.fullstackpython.com/table-of-contents.html|fullStackPython]]
+
+== MISC ==
+    = Lenovo T420 =
+        * [[thinkfan - fan management]]
+        * [[https://wiki.archlinux.org/index.php/Lenovo_ThinkPad_T420|T420 ArchLinux]]
+        * [[https://wiki.archlinux.org/index.php/Xmodmap|Switch Caps into Ctrl-Key (xmodmap)]]
+
+        * [[https://wiki.archlinux.org/index.php/TrackPoint|IBM Trackpoint | ArchLinux]]
+        * [[http://www.thinkwiki.org/wiki/How_to_configure_the_TrackPoint|Configure the Trackpoint]]
+        * [[https://askubuntu.com/questions/492744/how-do-i-automatically-remap-buttons-on-my-mouse-at-startup|remap mouse buttons]]
+
+    = GITHUB =
+        * [[https://dotfiles.github.io/|DOTFILES]]
+            - [[https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789|Tutorial - Getting started]]
+
+== SECURITY ==
+    - [[https://ipleak.net/|IP/DNS/TORRENTING VPN CHECK]]

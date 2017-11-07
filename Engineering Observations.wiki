@@ -1,0 +1,7 @@
+*Software Engineering Observation 4.4*
+
+Many programs can be divided logically into three phases: an initialization phase that
+initializes the variables; a processing phase that inputs data values and adjusts program
+variables accordingly; and a termination phase that calculates and outputs the final results.
+
+

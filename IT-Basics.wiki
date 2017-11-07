@@ -1,0 +1,15 @@
+=== What is an algorithm? ===
+
+Any computing problem can be solved by executing a series of actions in a specific order.
+A procedure for solving a problem in terms of
+    1. the actions to execute and
+    2. the order in which these actions execute
+is called an algorithm.
+
+
+=== What is a pseudocode? ===
+Pseudocode is an informal language that helps you develop algorithms without having to
+worry about the strict details of (Java) language syntax. The pseudocode we present is par-
+ticularly useful for developing algorithms that will be converted to structured portions of
+(Java) programs.
+

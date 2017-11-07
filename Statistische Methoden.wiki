@@ -1,0 +1,12 @@
+=== Statische Methoden ===
+http://www.gailer-net.de/tutorials/java/Notes/chap25/ch25_13.html
+
+Die Methoden, die eine Klassendefinition hat, werden statische Methoden genannt. 
+(Sie werden manchmal auch Klassenmethoden genannt). 
+Eine statische Methode ist ein Merkmal der Klasse, nicht der Objekte, die sie erzeugt hat.
+
+Wichtig:    Ein Programm kann eine statische Methode ausführen, 
+            ohne zuerst ein Objekt zu erzeugen! 
+            Alle anderen Methoden (die, welche nicht statisch sind) 
+            müssen ein Teil eines Objektes sein. 
+            Ein Objekt muss existieren, bevor sie ausgeführt werden können.

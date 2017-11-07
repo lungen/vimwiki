@@ -1,0 +1,3 @@
+=== Conditional Operator ( ?:  ) ===
+
+System.out.println(studentGrade >= 60 ? "Passed" : "Failed");

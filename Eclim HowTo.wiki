@@ -1,0 +1,5 @@
+*Install Eclim on headless server*
+http://eclim.org/install.html#install-headless
+
+=== Start Project ===
+:ProjectCreate /path/to/my_project -n java
